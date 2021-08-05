@@ -1,0 +1,25 @@
+linux操作指令
+
+放大终端缩小窗口
+	ctrl + shift + =  放大
+	ctrl + -      缩小
+
+	命令    		 对应英文      		作用
+	ls         		  list		查看当前文件夹下的内容
+	pwd     		 print work directory	查看当前所在文件夹	
+	cd[目录名]		change diretory	切换文件夹
+	touch[目录名]	touch		新建文件
+	mkdir[目录名]	make diretory	创建目录
+	rm[文件名]		remove		删除指定文件名
+	clear		clear		清屏
+	
+	man command  查询命令的使用方法 类似于help
+
+	chmod +/-rwx 文件名/目录名   修改用户的权限  
+
+
+
+vscode 下c++的学习  视频
+vim 文本编辑器的使用
+
+g++编译指令  g++ -g test.cpp -o test
